@@ -1,0 +1,7 @@
+
+Computer_vision/Fish/data/fish/fishdetector_weights.hdf5
+*.jpg
+Computer_vision/Fish/data/fish/boxes/alb_labels.json
+*.json
+*.csv
+Computer_vision/Fish/fishdetector.hdf5
